@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "99.85%",
-    "time": 1793,
-    "timeDay": 1311,
-    "timeWeek": 4082,
-    "timeMonth": 1967,
-    "timeYear": 1793,
+    "uptimeYear": "99.86%",
+    "time": 1778,
+    "timeDay": 1150,
+    "timeWeek": 4075,
+    "timeMonth": 1966,
+    "timeYear": 1778,
     "dailyMinutesDown": {
       "2022-01-31": 84
     }
