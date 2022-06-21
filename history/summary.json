@@ -4,7 +4,7 @@
     "url": "$SECRET_SITE_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
@@ -16,6 +16,7 @@
     "timeMonth": 1108,
     "timeYear": 1433,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-06-16": 21,
       "2022-02-13": 48,
       "2022-02-09": 25,
